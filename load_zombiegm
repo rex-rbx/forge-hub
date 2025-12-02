@@ -1,4 +1,4 @@
--if game.CoreGui:FindFirstChild("FHBlr") then
+if game.CoreGui:FindFirstChild("FHBlr") then
     local v1 = game:GetService("TweenService")
     local v2 = TweenInfo.new(0.75)
     local v3 = {
